@@ -92,7 +92,7 @@ body {
 
 .header {
 
-    background: url(../../img/wedding-event-caterer-hero-section-bg-img.png)no-repeat;
+    background: url(../img/wedding-event-caterer-hero-section-bg-img.png)no-repeat;
     background-size: cover;
     padding-bottom: 250px;
 }
@@ -537,7 +537,7 @@ body {
 }
 
 .wedding {
-    background: url(../../img/event-caterer-menu-wedding.jpg) no-repeat;
+    background: url(../img/event-caterer-menu-wedding.jpg) no-repeat;
     background-size: cover;
     border-radius: 12px;
     margin-top: 30px;
@@ -744,7 +744,7 @@ body {
 .you-bring-main-background {
 
 
-    background: url(../../img/wedding-event-cta-section-img-bg.jpg) no-repeat;
+    background: url(../img/wedding-event-cta-section-img-bg.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
